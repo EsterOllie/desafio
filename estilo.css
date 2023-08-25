@@ -1,0 +1,29 @@
+
+img{
+    width:200px;
+    border-radius: 50%;
+}
+h1,img{
+    display:inline-block;
+}
+h1{
+   font-size:35px;
+   
+}
+body{
+    padding:50px;
+}
+p{
+    font-size:20px;
+    text-align:justify;
+}
+.ini{
+    width:1000px;
+    height:70px;
+}
+header{
+    background-color: black;
+}
+id{
+    align-items: left;
+}
